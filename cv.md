@@ -1,6 +1,6 @@
 # CV
 
-## Name: Nerijus Bauža
+## Nerijus Bauža
 
 ![profile picture](https://nerijus-bauza.github.io/hosted-assets/profile-pic-tr.png)
 
